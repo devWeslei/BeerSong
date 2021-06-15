@@ -4,7 +4,7 @@
 
 ## About this Project
 
-Head First Java book exercise that i fix a problem.
+Head First Java book's exercise that i fix a problem.
 
 
 
