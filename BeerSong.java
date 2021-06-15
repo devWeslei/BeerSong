@@ -26,6 +26,6 @@ while (beerNum>0) {
 		System.out.println("Go to the store and buy some more, \n99 bottles of beer on the wall.");
 	} // fim do else
 } // fim do loop while
-} // fim do método main
+} // fim do mÃ©todo main
 } // fim da classe
 
